@@ -1,0 +1,18 @@
+*{
+    color: rgb(0, 0, 0);
+    background-color: rgb(94, 141, 244);
+    text-align: center;
+    font-family: 'Silkscreen', cursive;
+}
+
+body{
+    font-size: 25px;
+}
+h1{
+    color: white;
+}
+input{
+    background-color: rgb(199, 227, 255);
+    border-radius: 20px;
+    border-color: rgb(0, 0, 0);
+}
